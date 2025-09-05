@@ -83,6 +83,9 @@ func main() {
 		"https://www.valentbiosciences.com/agriculture/products/transit-soil/",
 		"https://www.valentbiosciences.com/agriculture/products/xentari/",
 		"https://www.valentbiosciences.com/agriculture/products/zicron/",
+		"https://www.valentbiosciences.com/foresthealth/products/foray/48b/",
+		"https://www.valentbiosciences.com/foresthealth/products/mimic/",
+		"https://www.valentbiosciences.com/foresthealth/foray-technical-manual/",
 	} // URL to fetch HTML content from
 	localFilePath := "valentbiosciences.html" // Path where HTML file will be stored
 
